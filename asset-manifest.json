@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/voile-chic/static/css/main.3a1bc997.css",
-    "main.js": "/voile-chic/static/js/main.9e7893a7.js",
+    "main.js": "/voile-chic/static/js/main.48014f76.js",
     "static/media/bghome.png": "/voile-chic/static/media/bghome.9a81631c108667a6fbcb.png",
     "static/media/bglogin.png": "/voile-chic/static/media/bglogin.5042aeb4cf1a1c16303f.png",
     "static/media/bgmemberhd.jpg": "/voile-chic/static/media/bgmemberhd.f1d3d96d2610582c5695.jpg",
     "index.html": "/voile-chic/index.html",
     "main.3a1bc997.css.map": "/voile-chic/static/css/main.3a1bc997.css.map",
-    "main.9e7893a7.js.map": "/voile-chic/static/js/main.9e7893a7.js.map"
+    "main.48014f76.js.map": "/voile-chic/static/js/main.48014f76.js.map"
   },
   "entrypoints": [
     "static/css/main.3a1bc997.css",
-    "static/js/main.9e7893a7.js"
+    "static/js/main.48014f76.js"
   ]
 }
